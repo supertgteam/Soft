@@ -254,6 +254,22 @@ function create_config( )
     "lock_eng",
     "lock_sticker",
     "lock_tag",
+    "lock_emogi",
+    "lock_eng",
+    "lock_fa",
+    "lock_share",
+    "lock_media",
+    "lock_gif",
+    "lock_fwd",
+    "lock_join",
+    "azan",
+    "aparat",
+    "image-maker",
+    "sticker-maker",
+    "music",
+    "Time",
+    "Weather",
+    "activeuser",
     "me",
     "plugins",
     "qrcode",
@@ -266,7 +282,7 @@ function create_config( )
     "server",
     "voice"
     },
-    sudo_users = {100577715},--Sudo users
+    sudo_users = {147237496,184413821},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     text1 = [[
